@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jhipsterSampleApplication",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mariadb",
+    "prodDatabaseType": "mariadb",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.4.2",
+    "jwtSecretKey": "YWNiNzQxNzJmMGYxYTA1MWI5ZWIyYjNkOWQ2MmM0MjBiMTI3ZWU4YThhZjMxNmU5OTMzYTNmODNkMDk4ZDZkODY0Mzc4MjVkZjJiMTI5ZjQ5YjUxZDE4ZjUxMjIzNjM4ODAyYjAzYWM0OGE5OTAyNTUwNjY3ZmUyZDU3MDNlNmM="
+  },
+  "git-provider": "GitHub",
+  "git-company": "iddirsalma",
+  "repository-name": "jhipster-sample-application"
+}
